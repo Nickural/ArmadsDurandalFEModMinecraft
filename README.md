@@ -2,6 +2,13 @@
 Now you can have Armads and Durandal in minecraft! Also features a few other weapons from FE
 Anyone can use this mod for their mod if they wish (if it's possible, I'm not sure if it is)
 I won't be constantly updating it but I figured I'd put it out
+There's 3 folders, Showcase, Recipes, and the Mod itself
+
+-Showcase, shows off what can happen in the mod and all the weapons
+
+-Recipes, shows the recipes for crafting each weapon, I tried to make them make sense
+
+-The mod itself, has the mod and installation instructions
 
 
 Installation:
